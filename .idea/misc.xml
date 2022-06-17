@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/layout/card_post.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/card_post_placeholder.xml" value="0.3711101713634672" />
       </map>
     </option>
   </component>
